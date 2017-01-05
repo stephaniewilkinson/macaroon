@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyString
+  fat: 1.5
+  carbs: 1.5
+  protein: 1.5
+  user: one
+  favorite: false
+
+two:
+  name: MyString
+  description: MyString
+  fat: 1.5
+  carbs: 1.5
+  protein: 1.5
+  user: two
+  favorite: false
